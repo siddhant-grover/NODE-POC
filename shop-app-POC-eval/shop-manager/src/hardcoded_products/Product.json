@@ -1,0 +1,19 @@
+
+[
+
+{"_id":"1","Category":"Bread","Name":"Freshly Baked Bread","Price":"25","InStock":true,"Stock":"30"},
+{"_id":"2","Category":"Bread","Name":"Pizza Base","Price":"25","InStock":true,"Stock":"30"},
+
+{"_id":"3","Category":"Dairy","Name":"Milk","Price":"20","InStock":false},
+{"_id":"4","Category":"Dairy","Name":"Cheese","Price":"35","InStock":true,"Stock":"50"},
+
+{"_id":"5","Category":"Fruits","Name":"Apple","Price":"20","InStock":false},
+{"_id":"6","Category":"Fruits","Name":"Orange","Price":"35","InStock":true,"Stock":"50"},
+
+
+{"_id":"7","Category":"Spices","Name":"Turmeric Powder","Price":"20","InStock":false},
+{"_id":"8","Category":"Spices","Name":"Chilli Powder","Price":"35","InStock":true,"Stock":"50"},
+
+{"_id":"9","Category":"Vegetables","Name":"Beans","Price":"10","InStock":true,"Stock":"100"},
+{"_id":"10","Category":"Vegetables","Name":"Spinach","Price":"15","InStock":true,"Stock":"75"}
+]
